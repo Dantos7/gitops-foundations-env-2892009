@@ -1,7 +1,7 @@
 # GitOps Foundations
 This is the repository for the LinkedIn Learning course GitOps Foundations. The full course is available from [LinkedIn Learning][lil-course-url].
 
-![GitOps Foundations][lil-thumbnail-url] 
+![GitOps Foundations][lil-thumbnail-url]
 
 If there is one constant in the software industry, it is the need for both speed and accuracy. GitOps can help fill both needs. GitOps is an operational model that extends DevOps with additional concepts that allow teams to accelerate the delivery of cloud native applications in a manner that is more consistent, reliable, transparent, and secure. In this course, instructor Kevin Bowersox walks you through the basics of the GitOps pattern, its key principles, and its practical use. Using hands-on demonstrations with Kubernetes, Kevin explains building blocks such as declarative configuration, automated change delivery, reconciliation, and more. Throughout the course, you’ll be introduced to a variety of tools you can use that take a GitOps approach, including Terraform, Argo CD, Flux, and Flagger.
 
@@ -25,11 +25,11 @@ This repository contains a folder for each of the tools used within the course. 
 
 ### Instructor
 
-Kevin Bowersox 
-                            
+Kevin Bowersox
+
 Web application developer
 
-                            
+
 
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/kevin-bowersox).
 

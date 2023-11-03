@@ -12,11 +12,11 @@ Lincense: Apache License Version 2.0
 https://www.apache.org/licenses/LICENSE-2.0
 
 
-Please note, this project may automatically load third party code from external 
-repositories (for example, NPM modules, Composer packages, or other dependencies). 
-If so, such third party code may be subject to other license terms than as set 
-forth above. In addition, such third party code may also depend on and load 
-multiple tiers of dependencies. Please review the applicable licenses of the 
+Please note, this project may automatically load third party code from external
+repositories (for example, NPM modules, Composer packages, or other dependencies).
+If so, such third party code may be subject to other license terms than as set
+forth above. In addition, such third party code may also depend on and load
+multiple tiers of dependencies. Please review the applicable licenses of the
 additional dependencies.
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
